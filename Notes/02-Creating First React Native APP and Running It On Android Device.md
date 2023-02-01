@@ -16,3 +16,7 @@ sdk.dir = C\:\\Users\\YOURUSERNAME\\AppData\\Local\\Android\\Sdk
 ```
 npx react-native run-android
 ```
+## 5. To Reinstall ``` node_modules ```
+```
+rm -rf node_modules && npm install
+```
